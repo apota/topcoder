@@ -1,0 +1,7 @@
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\bin\Debug\TopCoderChallenges.exe.config
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\bin\Debug\TopCoderChallenges.exe
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\bin\Debug\TopCoderChallenges.pdb
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\obj\Debug\TopCoderChallenges.csprojResolveAssemblyReference.cache
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\obj\Debug\TopCoderChallenges.exe
+D:\work\apota\topcoder_challenges\TopCoderChallenges\TopCoderChallenges\obj\Debug\TopCoderChallenges.pdb
